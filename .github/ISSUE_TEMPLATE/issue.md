@@ -1,11 +1,18 @@
 ---
-name: Issue
-about: Standard issue
-title: ''
-labels: ''
+name: Bug
+about: Create a bug report to help us improve.
+title: '[bug]'
+labels: 'bug'
 assignees: ''
 
 ---
 
-Please add `[feature request]` to the issue title when requesting new features, dashboards, projects etc.
-Please add `[bug]` to the issue title when reporting a bug.
+
+---
+name: Feature Request
+about: Create an issue requesting new features, dashboards, projects etc.
+title: "[feature request]"
+labels: 'enhancement'
+assignees: ''
+
+---
